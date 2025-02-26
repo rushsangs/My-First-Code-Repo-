@@ -1,1 +1,3 @@
-print("Hello SICSE!)
+# Fixed code
+# David
+print("Hello SICSE!")
