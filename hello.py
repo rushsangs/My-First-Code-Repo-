@@ -1,1 +1,1 @@
-print("Hello, oh mighty SIGCSE"!) #katherine adjustment
+print("Hello SICSE!)
